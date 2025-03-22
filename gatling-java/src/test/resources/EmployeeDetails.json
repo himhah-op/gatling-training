@@ -1,0 +1,13 @@
+{
+    "birthday": "1995-12-14",
+    "drivingLicenseExpiredDate": null,
+    "drivingLicenseNo": "",
+    "employeeId": "#{matricule}",
+    "firstName": "Hassan",
+    "gender": "1",
+    "lastName": "IMHAH",
+    "nationalityId":64,
+    "maritalStatus": "Single",
+    "middleName": "",
+    "otherId": ""
+}

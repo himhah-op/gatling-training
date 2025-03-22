@@ -1,0 +1,7 @@
+{
+    "employeeId": "#{matricule}",
+    "empPicture": null,
+    "firstName": "#{prenom}",
+    "lastName": "#{nom}",
+    "middleName": ""
+}
